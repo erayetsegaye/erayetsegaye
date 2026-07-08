@@ -1,52 +1,99 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Eraye Tsegaye</h1>
 
-# Hello, I'm Eraye Tsegaye👋
+<h3 align="center">💻 Computer Science Student | 🌍 Ethiopia </h3>
 
-**Computer Science Student**
-Software Engineering • Full-Stack Development • Database Management
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+Developer;Java+Programmer;Python+Programmer;HTML+%26+CSS+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<p align="center" style="color: #a371f7;">Building ideas into clean, functional code</p>
-
-</div>
-
----
-
-### 🟩 About me
-
-I am a **Computer Science student** passionate about building efficient software, structural application logic, and clean user interfaces. 
-
-I work across both backend logic and frontend layouts, ensuring a smooth connection between data processing, structured databases, and the user experience.
-
-* **Development Focus:** Writing high-performance logic, optimizing SQL database schemas, and building web layouts.
-* **Technical Interests:** System architecture, relational databases, data structures, and web technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erayetsegaye&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
-### 🟩 Tech Stack
+## 👩‍💻 About Me
 
-<div align="center">
-
-#### ✦ Languages & Systems
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### ✦ Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ✦ Databases & Tools
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+-  Computer Science Student
+-  Passionate about Software Development and Technology
+-  Currently improving my programming and problem-solving skills
+- Building projects to strengthen my portfolio
+-  Open to learning, collaboration, and hackathons
 
 ---
 
-### 🟩 Contacts
+## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,git,github,vscode,mysql,linux" />
+</p>
 
+---
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=erayetsegaye&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erayetsegaye&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=erayetsegaye&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erayetsegaye&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erayetsegaye&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Web Development
+- SQL
+- Artificial Intelligence
+
+---
+
+## 🎯 2026 Goals
+
+-  Build 20+ programming projects
+-  Master Java & Python
+-  Learn JavaScript
+-  Learn React
+- Contribute to Open Source
+-  Participate in Hackathons
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/erayetsegaye">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+ Thanks for visiting my profile! 
+</p>
