@@ -85,7 +85,11 @@
   <a href="https://www.instagram.com/erayetsegaye?igsh=MWU2emUxcTF5a3VlbQ==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  <a href="https://x.com/ErayeTsegaye" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+  </a>
 </p>
+
 
 
 ---
